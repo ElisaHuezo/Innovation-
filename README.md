@@ -30,44 +30,54 @@ Principalmente la generación de impacto de Alfred se basa en estudiantes univer
 
 ### Nuestro equipo 
 
-Elisa Huezo
+-Elisa Huezo
 
 Habilidades: Es buena con el marketing
+
 Fortalezas: Creatividad, social skills
+
 ¿Por qué es una buena parte del equipo?: Porque se encarga de darle una buena imagen a la App y de hacer las campañas publicitarias y siempre da la milla extra.
 
 ![image](https://user-images.githubusercontent.com/86166139/122652019-c4ac6a80-d0f9-11eb-9d29-b1a2ddfcf1a4.png)
 
 
-Gerardo Nuila
+-Gerardo Nuila
 
 Habilidades: es bueno con la tecnología, es buena onda
+
 Fortalezas: paciente, comprometido
+
 ¿Por qué es una buena parte del equipo?: es bueno con la tecnología, y se preocupa porque el trabajo siempre sea excelente. 
 
 ![image](https://user-images.githubusercontent.com/86166139/122652026-ca09b500-d0f9-11eb-86e3-dcc0692eea2b.png)
 
 
-Allisson Duran
+-Allisson Duran
 
 Habilidades: Emprendedora, llena de ideas, 
+
 Fortalezas: Sociable, es una buena negociadora, 
+
 ¿Por qué es una buena parte del equipo?: Se encargaría de generar y propiciar buenas relaciones dentro del equipo y con personas externas. 
 
 ![image](https://user-images.githubusercontent.com/86166139/122652029-cece6900-d0f9-11eb-9de5-94891d90524d.png)
 
-Adriana Canales
+-Adriana Canales
 
 Habilidades: Es buena animando al equipo
+
 Fortalezas: Proactiva, Responsable, entusiasta
+
 ¿Por qué es una buena parte del equipo?: generaría un buen ambiente en las reuniones. 
 
 ![image](https://user-images.githubusercontent.com/86166139/122652036-d5f57700-d0f9-11eb-8804-676c6dc8661f.png)
 
-Melissa Flores
+-Melissa Flores
 
 Habilidades: Multitasking, puede estar y hacer muchas cosas a la vez 
+
 Fortalezas: Valiente, soñadora, persistente 
+
 ¿Por qué es una buena parte del equipo?: Se encarga de la organización del equipo y de las tareas. 
 
 ![image](https://user-images.githubusercontent.com/86166139/122652040-db52c180-d0f9-11eb-8614-a37b1c79a1b8.png)
